@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "371124380974",
+    "firebase_url": "https://examspot-46ce8.firebaseio.com",
+    "project_id": "examspot-46ce8",
+    "storage_bucket": "examspot-46ce8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:371124380974:android:238e0e33eee5d12e51c6bf",
+        "android_client_info": {
+          "package_name": "com.example.examspot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "371124380974-sj7q85stjpgfi5gfjmmi9aenjol0v4fh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3S0IkfhlOEAW9SSyjoBNySviEiiO2W2g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "371124380974-sj7q85stjpgfi5gfjmmi9aenjol0v4fh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
